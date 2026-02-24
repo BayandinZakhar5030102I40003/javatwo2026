@@ -48,6 +48,10 @@ public class Main {
 
         makeBirdFly((Flyable) sparrow);
         // makeBirdFly(penguin); // Ошибка компиляции - пингвин не летает
+        //Вывод:
+        //Воробей кушает
+        //Пингвин ест
+        //Воробей летает
     }
 }
 //Суть принципа
