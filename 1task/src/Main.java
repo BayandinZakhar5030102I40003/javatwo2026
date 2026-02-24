@@ -1,13 +1,52 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
+abstract class Bird {
+    public abstract void eat();
+}
 
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
+interface Flyable {
+    void fly();
+}
+
+class Sparrow extends Bird implements Flyable {
+    @Override
+    public void eat() {
+        System.out.println("Воробей ест");
+    }
+
+    @Override
+    public void fly() {
+        System.out.println("Воробей летит");
+    }
+}
+
+class Penguin extends Bird {
+    @Override
+    public void eat() {
+        System.out.println("Пингвин ест");
+    }
+
+    public void swim() {
+        System.out.println("Пингвин плывет");
+    }
+}
+
+// Клиентский код
+public class Main {
+    public static void makeBirdEat(Bird bird) {
+        bird.eat();
+    }
+
+    public static void makeBirdFly(Flyable flyableBird) {
+        flyableBird.fly();
+    }
+
+    public static void main(String[] args) {
+        Bird sparrow = new Sparrow();
+        Bird penguin = new Penguin();
+
+        makeBirdEat(sparrow);
+        makeBirdEat(penguin);
+
+        makeBirdFly((Flyable) sparrow);
+        // makeBirdFly(penguin); // Ошибка компиляции - пингвин не Flyable
     }
 }
