@@ -61,6 +61,7 @@ public class Main {
         double result6 = q / r + s * t;
         System.out.println("\n5/2.0 + 3.0f*10L = " + result6);
 
+        //Приведите примеры сужающего преобразования типов. Практика №6
         // Потеря данных при приведении double → int
         double pi = 3.14;
         int intPi = (int)pi;
