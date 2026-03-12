@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1task/1task.iml" filepath="$PROJECT_DIR$/1task/1task.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/3/3.iml" filepath="$PROJECT_DIR$/Data types and operators/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data types and operators/Array/Array.iml" filepath="$PROJECT_DIR$/Data types and operators/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/3/Boolean/Boolean.iml" filepath="$PROJECT_DIR$/Data types and operators/3/Boolean/Boolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/Break/Break.iml" filepath="$PROJECT_DIR$/Data types and operators/Break/Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/Data types and operators.iml" filepath="$PROJECT_DIR$/Data types and operators/Data types and operators.iml" />
