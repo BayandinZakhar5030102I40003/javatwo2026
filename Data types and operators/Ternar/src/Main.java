@@ -1,9 +1,5 @@
 class TernaryExample {
     public static void main(String[] args) {
-        // Тестируем для разных значений a
-        test(1);
-        test(2);
-        test(5);
         test(100);
     }
 
