@@ -1,13 +1,35 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
+class A {
+    public void printNum(Integer i)
+    {
+        System.out.printf("Integer = %d%n", i);
+    }
+    public void printNum(int i)
+    {
+        System.out.printf("int = %d%n", i);
+    }
+    public void printNum(Float f)
+    {
+        System.out.printf("Float = %.4f%n", f);
+    }
+    public void printNum(Number n)
+    {
+        System.out.println("Number=" + n);
+    }
+}
 
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
+
+public class Main {
+    public static void main(String[] args) {
+        A a = new A();
+        Number[ ] num = {new Integer(1), 11, 1.11f, 11.11 };
+        // цикл for (1)
+        for (Number n : num) {
+            a.printNum(n);
+        }
+        // (2)
+        a.printNum(new Integer(1));
+        a.printNum(11);
+        a.printNum(1.11f);
+        a.printNum(11.11);
     }
 }
