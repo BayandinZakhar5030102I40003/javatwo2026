@@ -1,0 +1,56 @@
+public class PlanetExample {
+
+    // Перечисление с инициализацией через конструктор
+    public enum Planet {
+        MERCURY(3.303e+23, 2.4397e6),
+        VENUS(4.869e+24, 6.0518e6),
+        EARTH(5.976e+24, 6.37814e6),
+        MARS(6.421e+23, 3.3972e6),
+        JUPITER(1.9e+27, 7.1492e7),
+        SATURN(5.688e+26, 6.0268e7),
+        URANUS(8.686e+25, 2.5559e7),
+        NEPTUNE(1.024e+26, 2.4746e7);
+
+        private final double mass;   // в килограммах
+        private final double radius; // в метрах
+
+        // Конструктор перечисления
+        Planet(double mass, double radius) {
+            this.mass = mass;
+            this.radius = radius;
+        }
+
+        public double getMass() {
+            return mass;
+        }
+
+        public double getRadius() {
+            return radius;
+        }
+
+        // Вычисление поверхностной гравитации
+        public double surfaceGravity() {
+            double G = 6.67300E-11;
+            return G * mass / (radius * radius);
+        }
+
+        public double surfaceWeight(double otherMass) {
+            return otherMass * surfaceGravity();
+        }
+    }
+
+    public static void main(String[] args) {
+        // Использование перечисления с инициализированными значениями
+        Planet earth = Planet.EARTH;
+        System.out.println("Масса Земли: " + earth.getMass() + " кг");
+        System.out.println("Радиус Земли: " + earth.getRadius() + " м");
+        System.out.println("Гравитация: " + earth.surfaceGravity() + " м/с²");
+
+        // Вес 70-килограммового человека на разных планетах
+        double myMass = 70;
+        for (Planet planet : Planet.values()) {
+            System.out.printf("Вес на %s: %.2f кг%n",
+                    planet.name(), planet.surfaceWeight(myMass));
+        }
+    }
+}
