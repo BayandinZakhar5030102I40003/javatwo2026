@@ -251,7 +251,7 @@ public class ShopApplication {
             // 2. Запускаем миграции Flyway
             Flyway flyway = Flyway.configure()
                     .dataSource(ds)
-                    .locations("classpath:db/migration")
+                    .locations("classpath:db/migration")  // ← должно быть ТОЧНО так
                     .load();
             flyway.migrate();
             System.out.println("Миграции выполнены");
