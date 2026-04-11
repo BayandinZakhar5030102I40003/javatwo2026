@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/Data types and operators.iml" filepath="$PROJECT_DIR$/Data types and operators/Data types and operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documentation/Documentation.iml" filepath="$PROJECT_DIR$/Documentation/Documentation.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" filepath="$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inner classes/Inner classes.iml" filepath="$PROJECT_DIR$/Inner classes/Inner classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes and methods/Methods/Methods.iml" filepath="$PROJECT_DIR$/Classes and methods/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes and methods/Methods with variable number of parameters/Methods with variable number of parameters.iml" filepath="$PROJECT_DIR$/Classes and methods/Methods with variable number of parameters/Methods with variable number of parameters.iml" />
