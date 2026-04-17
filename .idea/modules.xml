@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" filepath="$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inner classes/Inner classes.iml" filepath="$PROJECT_DIR$/Inner classes/Inner classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Method overriding and polymorphism/Method overriding and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Method overriding and polymorphism/Method overriding and polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes and methods/Methods/Methods.iml" filepath="$PROJECT_DIR$/Classes and methods/Methods/Methods.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Classes and methods/Transfers/Transfers.iml" filepath="$PROJECT_DIR$/Classes and methods/Transfers/Transfers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Using super and this/Using super and this.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Using super and this/Using super and this.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/WhileDo/WhileDo.iml" filepath="$PROJECT_DIR$/Data types and operators/WhileDo/WhileDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inner classes/deprecated/deprecated.iml" filepath="$PROJECT_DIR$/Inner classes/deprecated/deprecated.iml" />
       <module fileurl="file://$PROJECT_DIR$/type/diftype/diftype.iml" filepath="$PROJECT_DIR$/type/diftype/diftype.iml" />
       <module fileurl="file://$PROJECT_DIR$/in_out/in_out.iml" filepath="$PROJECT_DIR$/in_out/in_out.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/instanceof2/instanceof2.iml" filepath="$PROJECT_DIR$/Data types and operators/instanceof2/instanceof2.iml" />
