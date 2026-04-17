@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inner classes/practice/practice.iml" filepath="$PROJECT_DIR$/Inner classes/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/type/string/stringg.iml" filepath="$PROJECT_DIR$/type/string/stringg.iml" />
       <module fileurl="file://$PROJECT_DIR$/type/type.iml" filepath="$PROJECT_DIR$/type/type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inner classes/warnings/warnings.iml" filepath="$PROJECT_DIR$/Inner classes/warnings/warnings.iml" />
     </modules>
   </component>
 </project>

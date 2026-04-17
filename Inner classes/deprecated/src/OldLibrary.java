@@ -9,18 +9,11 @@ public class OldLibrary {
     }
 }
 
-
 class Main {
     public static void main(String[] args) {
         OldLibrary lib = new OldLibrary();
-        lib.oldMethod();  // Предупреждение компиляции
-        lib.newMethod();  // Без предупреждений
+        lib.oldMethod();
+        lib.newMethod();
     }
 }
 
-class Library {
-    @Deprecated(since = "2.0", forRemoval = true)
-    public void removedMethod() {
-        System.out.println("Will be removed in next version");
-    }
-}
