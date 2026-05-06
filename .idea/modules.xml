@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documentation/Documentation.iml" filepath="$PROJECT_DIR$/Documentation/Documentation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Final classes and methods/Final classes and methods.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Final classes and methods/Final classes and methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/Formatting information/Formatting information.iml" filepath="$PROJECT_DIR$/String/Formatting information/Formatting information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handling multiple exceptions/Handling multiple exceptions.iml" filepath="$PROJECT_DIR$/Handling multiple exceptions/Handling multiple exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" filepath="$PROJECT_DIR$/JDBC/Hibernate_ORM/Hibernate_ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hierarchyofexceptionsandrrors/Hierarchyofexceptionsandrrors.iml" filepath="$PROJECT_DIR$/Hierarchyofexceptionsandrrors/Hierarchyofexceptionsandrrors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" />
