@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hierarchyofexceptionsandrrors/Hierarchyofexceptionsandrrors.iml" filepath="$PROJECT_DIR$/Hierarchyofexceptionsandrrors/Hierarchyofexceptionsandrrors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Inheritance and polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inner classes/Inner classes.iml" filepath="$PROJECT_DIR$/Inner classes/Inner classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputStreams/InputStreams.iml" filepath="$PROJECT_DIR$/InputStreams/InputStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance and polymorphism/Method overriding and polymorphism/Method overriding and polymorphism.iml" filepath="$PROJECT_DIR$/Inheritance and polymorphism/Method overriding and polymorphism/Method overriding and polymorphism.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Handling multiple exceptions/Own_exceptions/Own_exceptions.iml" filepath="$PROJECT_DIR$/Handling multiple exceptions/Own_exceptions/Own_exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes and methods/Parameterized classes/Parameterized classes.iml" filepath="$PROJECT_DIR$/Classes and methods/Parameterized classes/Parameterized classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/3/Practic 3/Practic 3.iml" filepath="$PROJECT_DIR$/Data types and operators/3/Practic 3/Practic 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputStreams/Scaner/Scaner.iml" filepath="$PROJECT_DIR$/InputStreams/Scaner/Scaner.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/StringBuilderStringBuffer/StringBuilderStringBuffer.iml" filepath="$PROJECT_DIR$/String/StringBuilderStringBuffer/StringBuilderStringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data types and operators/Switch/Switch.iml" filepath="$PROJECT_DIR$/Data types and operators/Switch/Switch.iml" />
@@ -48,6 +50,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/javatwo2026.iml" filepath="$PROJECT_DIR$/.idea/javatwo2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/type/nameU/nameU.iml" filepath="$PROJECT_DIR$/type/nameU/nameU.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inner classes/practice/practice.iml" filepath="$PROJECT_DIR$/Inner classes/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputStreams/practice1_2/practice1_2.iml" filepath="$PROJECT_DIR$/InputStreams/practice1_2/practice1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputStreams/practice1_3/practice1_3.iml" filepath="$PROJECT_DIR$/InputStreams/practice1_3/practice1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputStreams/practice1_4/practice1_4.iml" filepath="$PROJECT_DIR$/InputStreams/practice1_4/practice1_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/practice2/practice2.iml" filepath="$PROJECT_DIR$/Interfaces/practice2/practice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/StringBuilderStringBuffer/practice22/practice22.iml" filepath="$PROJECT_DIR$/String/StringBuilderStringBuffer/practice22/practice22.iml" />
       <module fileurl="file://$PROJECT_DIR$/type/string/stringg.iml" filepath="$PROJECT_DIR$/type/string/stringg.iml" />
